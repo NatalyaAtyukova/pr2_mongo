@@ -1,0 +1,473 @@
+[{
+  "_id": {
+    "$oid": "647381c26719fe8b3126bde5"
+  },
+  "name": "David",
+  "email": "david11@mail.ru",
+  "age": 43,
+  "hasCar": false,
+  "favColor": [
+    "Blue",
+    "Dark-Red",
+    "Yellow"
+  ],
+  "child": {
+    "name": "Boby",
+    "surname": "Union",
+    "age": 17
+  },
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "64744e2bfee7522db97ad161"
+  },
+  "name": "Daniel",
+  "email": "daniel@mail.ru",
+  "age": 32,
+  "hasCar": true,
+  "favColor": [
+    "White",
+    "Black"
+  ],
+  "child": {},
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "64744e5dfee7522db97ad162"
+  },
+  "name": "Marry",
+  "email": "marry@list.ru",
+  "age": 12,
+  "hasCar": false,
+  "favColor": [
+    "Pink"
+  ],
+  "child": {},
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "64744ea2fee7522db97ad163"
+  },
+  "name": "Anna",
+  "email": "anna2012@list.ru",
+  "age": 19,
+  "hasCar": false,
+  "favColor": [
+    "Gold"
+  ],
+  "child": {},
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "64744eedfee7522db97ad164"
+  },
+  "name": "Lisa",
+  "email": "elisa54@list.ru",
+  "age": 55,
+  "hasCar": true,
+  "favColor": [
+    "Dark-Red",
+    "Brown"
+  ],
+  "child": {},
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "64744f46fee7522db97ad165"
+  },
+  "name": "Inga",
+  "email": "ingamow@mail.ru",
+  "age": 36,
+  "hasCar": true,
+  "favColor": [
+    "Silver-Blue",
+    "Brown"
+  ],
+  "child": {
+    "name": "Maria",
+    "surname": "Convers",
+    "age": 16
+  },
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "64744f8afee7522db97ad166"
+  },
+  "name": "New User",
+  "password": "qwerty123",
+  "married": false,
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "64744fd9fee7522db97ad167"
+  },
+  "name": "Hanry",
+  "email": "cahanr@mail.ru",
+  "age": 38,
+  "hasCar": true,
+  "favColor": [
+    "Silver",
+    "White",
+    "Black"
+  ],
+  "child": {
+    "name": "Mondy",
+    "surname": "Candy",
+    "age": 5
+  },
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "64745010fee7522db97ad168"
+  },
+  "name": "July",
+  "email": "juliaUS@mail.ru",
+  "age": 38,
+  "hasCar": true,
+  "favColor": [
+    "Silver",
+    "White"
+  ],
+  "child": {
+    "name": "John",
+    "surname": "Jelly",
+    "age": 5
+  },
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "6474505ffee7522db97ad169"
+  },
+  "name": "Mirinda",
+  "email": "mira@list.ru",
+  "age": 55,
+  "hasCar": false,
+  "favColor": [
+    "Orange"
+  ],
+  "child": {},
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "64745096fee7522db97ad16a"
+  },
+  "name": "Georgy",
+  "email": "grisha@list.ru",
+  "age": 32,
+  "hasCar": false,
+  "favColor": [
+    "Green",
+    "Purple"
+  ],
+  "child": {},
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "647450cbfee7522db97ad16b"
+  },
+  "name": "Alexey",
+  "email": "alexpo@list.ru",
+  "age": 38,
+  "hasCar": false,
+  "favColor": [
+    "Dark-Blue",
+    "Purple"
+  ],
+  "child": {},
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "64745121fee7522db97ad16c"
+  },
+  "name": "Olga",
+  "email": "olgakorniychuk@mail.ru",
+  "age": 43,
+  "hasCar": true,
+  "favColor": [
+    "Green",
+    "Red",
+    "Yellow"
+  ],
+  "child": {
+    "name": "Evgen",
+    "surname": "Korniychuk",
+    "age": 20
+  },
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "6474516efee7522db97ad16d"
+  },
+  "name": "Alexander",
+  "email": "sevensilver@mail.ru",
+  "age": 28,
+  "hasCar": true,
+  "favColor": [
+    "Black",
+    "Silver",
+    "White"
+  ],
+  "child": {
+    "name": "Irina",
+    "surname": "Seliverstova",
+    "age": 5
+  },
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "647451e9fee7522db97ad16f"
+  },
+  "name": "Alina",
+  "email": "alinagus@mail.ru",
+  "age": 23,
+  "hasCar": false,
+  "favColor": [
+    "Green",
+    "Red",
+    "Black"
+  ],
+  "child": {
+    "name": "Alex",
+    "surname": "Gusakov",
+    "age": 1
+  },
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "6474521dfee7522db97ad170"
+  },
+  "name": "Klava",
+  "email": "kokaklava@mail.ru",
+  "age": 30,
+  "hasCar": true,
+  "favColor": [
+    "Pink",
+    "Gold",
+    "White"
+  ],
+  "child": {
+    "name": "Daniel",
+    "surname": "Koka",
+    "age": 5
+  },
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "64745265fee7522db97ad171"
+  },
+  "name": "Phil",
+  "email": "gphil@mail.ru",
+  "age": 31,
+  "hasCar": true,
+  "favColor": [
+    "White",
+    "Yellow",
+    "Black"
+  ],
+  "child": {
+    "name": "Radion",
+    "surname": "Grizly",
+    "age": 1
+  },
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "647452a7fee7522db97ad172"
+  },
+  "name": "Nina",
+  "email": "ninka23@list.ru",
+  "age": 22,
+  "hasCar": false,
+  "favColor": [
+    "Purple"
+  ],
+  "child": {},
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "647452cafee7522db97ad173"
+  },
+  "name": "Oleg",
+  "email": "vladyko@list.ru",
+  "age": 27,
+  "hasCar": false,
+  "favColor": [
+    "White"
+  ],
+  "child": {},
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "647452ebfee7522db97ad174"
+  },
+  "name": "Tanya",
+  "email": "tatyanavedm@list.ru",
+  "age": 24,
+  "hasCar": false,
+  "favColor": [
+    "Dark-Red"
+  ],
+  "child": {},
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "6474532dfee7522db97ad175"
+  },
+  "name": "Dasha",
+  "email": "darya123@list.ru",
+  "age": 23,
+  "hasCar": false,
+  "favColor": [
+    "Beige"
+  ],
+  "child": {},
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "64745359fee7522db97ad176"
+  },
+  "name": "Dan",
+  "email": "Danyaddd@list.ru",
+  "age": 27,
+  "hasCar": true,
+  "favColor": [
+    "Dark-Blue"
+  ],
+  "child": {},
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "647453c2fee7522db97ad177"
+  },
+  "name": "Geralt",
+  "email": "vedmak@mail.ru",
+  "age": 45,
+  "hasCar": false,
+  "favColor": [
+    "Brown",
+    "Silver",
+    "Black"
+  ],
+  "child": {
+    "name": "Ciri",
+    "surname": "Vedmak",
+    "age": 21
+  },
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "647453defee7522db97ad178"
+  },
+  "name": "Baron",
+  "email": "baron@mail.ru",
+  "age": 17,
+  "hasCar": true,
+  "favColor": [
+    "Green",
+    "Red",
+    "Black"
+  ],
+  "child": {},
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "6474541afee7522db97ad179"
+  },
+  "name": "Larisa",
+  "email": "lora@mail.ru",
+  "age": 55,
+  "hasCar": true,
+  "favColor": [
+    "Gray",
+    "White",
+    "Black"
+  ],
+  "child": {
+    "name": "Evgen",
+    "surname": "Litvin",
+    "age": 30
+  },
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "6474544efee7522db97ad17a"
+  },
+  "name": "Larisa",
+  "email": "lorik77@mail.ru",
+  "age": 53,
+  "hasCar": false,
+  "favColor": [
+    "Green",
+    "Red",
+    "Yellow"
+  ],
+  "child": {
+    "name": "Ilya",
+    "surname": "Kopachinsckiy",
+    "age": 28
+  },
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "64745493fee7522db97ad17b"
+  },
+  "name": "Olga",
+  "email": "olya5321@mail.ru",
+  "age": 60,
+  "hasCar": false,
+  "favColor": [
+    "Red",
+    "Blue"
+  ],
+  "child": {
+    "name": "Maria",
+    "surname": "Ovcharova",
+    "age": 35
+  },
+  "balance": 2700
+},
+{
+  "_id": {
+    "$oid": "647454dafee7522db97ad17c"
+  },
+  "name": "Olga",
+  "email": "kokoulina71@mail.ru",
+  "age": 40,
+  "hasCar": false,
+  "favColor": [
+    "Blue",
+    "White"
+  ],
+  "child": {
+    "name": "Aliona",
+    "surname": "Shishkina",
+    "age": 20
+  },
+  "balance": 2700
+}]
